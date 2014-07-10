@@ -13,7 +13,7 @@ These guys work well with Statamic right out of the box.
 
 ## Hosts that don't play nice
 
-You should probably avoid these.
+You should probably avoid these. It doesn't mean it's not possible, but will likely require support tickets to enabled PHP modules like `mcrypt`, `mbstring`, and so on.
 
 - [Go Daddy](http://godaddy.com) (are you surprised?)
 - [NameCheap](http://namecheap.com)
