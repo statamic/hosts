@@ -12,6 +12,7 @@ These guys work well with Statamic right out of the box.
 - [Laravel Forge](https://forge.laravel.com/) + [Linode](http://linode.com)
 - [Media Temple (dv)](http://mediatemple.net)
 - [ServInt](https://www.servint.net/)
+- [Site5](http://www.site5.com/)
 - [WebFaction](https://www.webfaction.com/)
 
 ## Hosts that don't play nice
@@ -25,5 +26,5 @@ You should probably avoid these. It doesn't mean it's not possible, but will lik
 
 Wide-spread dev environments that work well (e.g. MAMP)
 
-- [MAMP 3](http://www.mamp.info/en/)
+- [MAMP 3](http://www.mamp.info/en/) (*MAMP 2 works as well*)
 - Jack's iMac
