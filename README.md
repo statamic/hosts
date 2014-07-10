@@ -16,6 +16,7 @@ These guys work well with Statamic right out of the box.
 You should probably avoid these.
 
 - [Go Daddy](http://godaddy.com) (are you surprised?)
+- [NameCheap](http://namecheap.com)
 
 ## Standard Dev Environments
 
