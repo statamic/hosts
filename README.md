@@ -11,6 +11,7 @@ These guys work well with Statamic right out of the box.
 - [Media Temple (dv)](http://mediatemple.net)
 - [ServInt](https://www.servint.net/)
 - [WebFaction](https://www.webfaction.com/)
+- [DreamHost](https://www.dreamhost.com/)
 
 ## Hosts that don't play nice
 
