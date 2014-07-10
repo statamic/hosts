@@ -16,3 +16,10 @@ These guys work well with Statamic right out of the box.
 You should probably avoid these.
 
 - [Go Daddy](http://godaddy.com) (are you surprised?)
+
+## Standard Dev Environments
+
+Wide-spread dev environments that work well (e.g. MAMP)
+
+- [MAMP 3](http://www.mamp.info/en/)
+- Jack's iMac
