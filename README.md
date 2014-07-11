@@ -15,6 +15,7 @@ These guys work well with Statamic right out of the box.
 - [Site5](http://www.site5.com/)
 - [WebFaction](https://www.webfaction.com/)
 - [Digital Pacific](http://www.digitalpacific.com.au/hosting/) - Sydney, Australia
+- [DigitalOcean](https://www.digitalocean.com/) ([One-Click LAMP Stack](https://www.digitalocean.com/features/one-click-apps/))
 
 ## Hosts that don't play nice
 
