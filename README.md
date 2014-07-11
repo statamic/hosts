@@ -14,6 +14,7 @@ These guys work well with Statamic right out of the box.
 - [ServInt](https://www.servint.net/)
 - [Site5](http://www.site5.com/)
 - [WebFaction](https://www.webfaction.com/)
+- [DigitalOcean](https://www.digitalocean.com/) ([One-Click LAMP Stack](https://www.digitalocean.com/features/one-click-apps/))
 
 ## Hosts that don't play nice
 
