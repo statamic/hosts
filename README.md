@@ -28,4 +28,5 @@ You should probably avoid these. It doesn't mean it's not possible, but will lik
 Wide-spread dev environments that work well (e.g. MAMP)
 
 - [MAMP 3](http://www.mamp.info/en/) (*MAMP 2 works as well*)
+- A [Vagrant for Statamic](https://github.com/bradleyflood/vagrant-statamic) setup
 - Jack's iMac
