@@ -16,6 +16,7 @@ These guys work well with Statamic right out of the box.
 - [WebFaction](https://www.webfaction.com/)
 - [Digital Pacific](http://www.digitalpacific.com.au/hosting/) - Sydney, Australia
 - [DigitalOcean](https://www.digitalocean.com/) ([One-Click LAMP Stack](https://www.digitalocean.com/features/one-click-apps/))
+- [Metanet](http://www.metanet.ch) - Switzerland
 
 ## Hosts that don't play nice
 
