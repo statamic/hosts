@@ -9,6 +9,7 @@ These guys work well with Statamic right out of the box.
 - [ArcusTech](http://arcustech.com)
 - [A Small Orange](http://asmallorange.com)
 - [DreamHost](https://www.dreamhost.com/)
+- [HostGator](http://www.hostgator.com/)
 - [Laravel Forge](https://forge.laravel.com/) + [Linode](http://linode.com)
 - [Media Temple (dv)](http://mediatemple.net)
 - [ServInt](https://www.servint.net/)
