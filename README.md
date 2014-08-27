@@ -23,8 +23,9 @@ These guys work well with Statamic right out of the box.
 
 You should probably avoid these. It doesn't mean it's not possible, but will likely require support tickets to enabled PHP modules like `mcrypt`, `mbstring`, and so on.
 
-- [Go Daddy](http://godaddy.com) (are you surprised?)
+- [Go Daddy](http://godaddy.com) - doesn't meet server requirements
 - [NameCheap](http://namecheap.com)
+- [Rackspace Cloud](http://www.rackspace.com/cloud/) - issues with out-of-sync file timestamps
 
 ## Standard Dev Environments
 
