@@ -25,7 +25,7 @@ You should probably avoid these. It doesn't mean it's not possible, but will lik
 
 - [Go Daddy](http://godaddy.com) - doesn't meet server requirements
 - [NameCheap](http://namecheap.com)
-- [Rackspace Cloud](http://www.rackspace.com/cloud/) - issues with out-of-sync file timestamps
+- [Rackspace Cloud](http://www.rackspace.com/cloud/) - issues with out-of-sync file timestamps and permissions
 
 ## Standard Dev Environments
 
