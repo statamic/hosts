@@ -10,6 +10,7 @@ These guys work well with Statamic right out of the box.
 - [A Small Orange](http://asmallorange.com)
 - [Laravel Forge](https://forge.laravel.com/) + [Linode](http://linode.com)
 - [Media Temple (dv)](http://mediatemple.net)
+- [Media Temple (grid)](http://mediatemple.net)
 - [ServInt](https://www.servint.net/)
 - [WebFaction](https://www.webfaction.com/)
 
