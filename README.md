@@ -12,6 +12,7 @@ These guys work well with Statamic right out of the box.
 - [HostGator](http://www.hostgator.com/)
 - [Laravel Forge](https://forge.laravel.com/) + [Linode](http://linode.com)
 - [Media Temple (dv)](http://mediatemple.net)
+- [Media Temple (grid)](http://mediatemple.net)
 - [ServInt](https://www.servint.net/)
 - [Site5](http://www.site5.com/)
 - [WebFaction](https://www.webfaction.com/)
