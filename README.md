@@ -8,7 +8,7 @@ These guys work well with Statamic right out of the box.
 
 - [ArcusTech](http://arcustech.com)
 - [A Small Orange](http://asmallorange.com)
-- [DreamHost](https://www.dreamhost.com/)
+- [DreamHost](https://www.dreamhost.com/) - [server tweaks needed](https://github.com/statamic/hosts/wiki/Dreamhost-tweaks)
 - [HostGator](http://www.hostgator.com/)
 - [Laravel Forge](https://forge.laravel.com/) + [Linode](http://linode.com)
 - [Media Temple (dv)](http://mediatemple.net)
