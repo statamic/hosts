@@ -28,6 +28,7 @@ You should probably avoid these. It doesn't mean it's not possible, but will lik
 - [Go Daddy](http://godaddy.com) - doesn't meet server requirements
 - [NameCheap](http://namecheap.com)
 - [Rackspace Cloud](http://www.rackspace.com/cloud/) - issues with out-of-sync file timestamps and permissions
+- [1and1.com](http://1and1.com) - please see [issue raised](https://github.com/statamic/hosts/issues/12) for more details.
 
 ## Standard Dev Environments
 
