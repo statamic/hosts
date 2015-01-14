@@ -8,10 +8,11 @@ These guys work well with Statamic right out of the box.
 
 - [ArcusTech](http://arcustech.com)
 - [A Small Orange](http://asmallorange.com)
-- [DreamHost](https://www.dreamhost.com/)
+- [DreamHost](https://www.dreamhost.com/) - [server tweaks needed](https://github.com/statamic/hosts/wiki/Dreamhost-tweaks)
 - [HostGator](http://www.hostgator.com/)
 - [Laravel Forge](https://forge.laravel.com/) + [Linode](http://linode.com)
 - [Media Temple (dv)](http://mediatemple.net)
+- [Media Temple (grid)](http://mediatemple.net)
 - [ServInt](https://www.servint.net/)
 - [Site5](http://www.site5.com/)
 - [WebFaction](https://www.webfaction.com/)
@@ -27,6 +28,7 @@ You should probably avoid these. It doesn't mean it's not possible, but will lik
 - [Go Daddy](http://godaddy.com) - doesn't meet server requirements
 - [NameCheap](http://namecheap.com)
 - [Rackspace Cloud](http://www.rackspace.com/cloud/) - issues with out-of-sync file timestamps and permissions
+- [1and1.com](http://1and1.com) - please see [issue raised](https://github.com/statamic/hosts/issues/12) for more details.
 
 ## Standard Dev Environments
 
