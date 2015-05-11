@@ -17,6 +17,7 @@ These guys work well with Statamic right out of the box.
 - [Site5](http://www.site5.com/)
 - [WebFaction](https://www.webfaction.com/)
 - [Digital Pacific](http://www.digitalpacific.com.au/hosting/) - Sydney, Australia
+- [Panthur](http://www.panthur.com.au/) - Sydney, Australia
 - [DigitalOcean](https://www.digitalocean.com/) ([One-Click LAMP Stack](https://www.digitalocean.com/features/one-click-apps/))
 - [Metanet](http://www.metanet.ch) - Switzerland
 - [OVH](https://www.ovh.com/fr/index.xml) is a nice web host with 3 main data centers in northeastern France and one near Montreal (Quebec, Canada). It offers PHP 5.5 and 5.4.
