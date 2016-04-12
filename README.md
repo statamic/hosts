@@ -23,7 +23,7 @@ These guys work well with Statamic right out of the box.
 - [Panthur](http://www.panthur.com.au/) - Sydney, Australia
 - [DigitalOcean](https://www.digitalocean.com/) ([One-Click LAMP Stack](https://www.digitalocean.com/features/one-click-apps/))
 - [Metanet](http://www.metanet.ch) - Switzerland
-- [OVH](https://www.ovh.com/fr/index.xml) is a nice web host with 3 main data centers in northeastern France and one near Montreal (Quebec, Canada). It offers PHP 5.5 and 5.4.
+- [OVH](https://www.ovh.com/fr/index.xml) - northeastern France and near Montreal (Quebec, Canada). As of 2016/04/12, It offers PHP 7.0.5 and 5.6.20.
 
 ## Hosts that don't play nice
 
