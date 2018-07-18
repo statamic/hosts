@@ -43,6 +43,7 @@ Wide-spread dev environments that work well (e.g. MAMP)
 
 - [MAMP 3](http://www.mamp.info/en/) (*MAMP 2 works as well*)
 - [Laravel Valet](https://laravel.com/docs/master/valet)
+- [Laravel Homestead](https://laravel.com/docs/master/homestead)
 - A [Vagrant for Statamic](https://github.com/bradleyflood/vagrant-statamic) setup
 - [Scotch Box](https://github.com/scotch-io/scotch-box) - 'A Vagrant LAMP Stack That Just Works'
 - Jack's iMac
