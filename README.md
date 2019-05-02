@@ -13,7 +13,6 @@ These guys work well with Statamic right out of the box.
 - [ArcusTech](http://arcustech.com)
 - [AWS](https://aws.amazon.com/)
 - [Azure](https://azure.microsoft.com/)
-- [Cleverhost](https://cleverhost.ca) - run by a Statamic community member
 - [Digital Ocean](https://www.digitalocean.com/) ([One-Click LAMP Stack](https://www.digitalocean.com/features/one-click-apps/))
 - [Digital Pacific](http://www.digitalpacific.com.au/hosting/) - Sydney, Australia
 - [DreamHost](https://www.dreamhost.com/) - [server tweaks needed](https://github.com/statamic/hosts/wiki/Dreamhost-tweaks)
