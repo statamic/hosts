@@ -16,7 +16,7 @@ These guys work well with Statamic right out of the box.
 - [Digital Ocean](https://www.digitalocean.com/) ([One-Click LAMP Stack](https://www.digitalocean.com/features/one-click-apps/))
 - [Digital Pacific](http://www.digitalpacific.com.au/hosting/) - Sydney, Australia
 - [DreamHost](https://www.dreamhost.com/) - [server tweaks needed](https://github.com/statamic/hosts/wiki/Dreamhost-tweaks)
-- [fortrabbit](https://www.fortrabbit.com/) - US Virgina & EU Ireland, install guide for V3 coming soon
+- [fortrabbit](https://www.fortrabbit.com/) - US Virgina & EU Ireland, with [install guide for Statamic 3](https://help.fortrabbit.com/install-statamic-3)
 - [Google Cloud Platform](https://cloud.google.com/)
 - [HostGator](http://www.hostgator.com/)
 - [Laravel Forge](https://forge.laravel.com/) + [Linode](http://linode.com)
