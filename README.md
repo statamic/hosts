@@ -19,6 +19,7 @@ These guys work well with Statamic right out of the box.
 - [fortrabbit](https://www.fortrabbit.com/) - US Virgina & EU Ireland, with [install guide for Statamic 3](https://help.fortrabbit.com/install-statamic-3)
 - [Google Cloud Platform](https://cloud.google.com/)
 - [HostGator](http://www.hostgator.com/)
+- [Internethelden](https://internethelden.io/) - Germany
 - [Laravel Forge](https://forge.laravel.com/) + [Linode](http://linode.com)
 - [Media Temple (dv)](http://mediatemple.net)
 - [Media Temple (grid)](http://mediatemple.net)
