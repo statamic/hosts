@@ -11,6 +11,7 @@ These guys work well with Statamic right out of the box.
 
 - [A Small Orange](http://asmallorange.com)
 - [ArcusTech](http://arcustech.com)
+- [Aspiration Hosting](https://www.aspirationhosting.com)
 - [AWS](https://aws.amazon.com/)
 - [Azure](https://azure.microsoft.com/)
 - [Digital Ocean](https://www.digitalocean.com/) ([One-Click LAMP Stack](https://www.digitalocean.com/features/one-click-apps/))
@@ -49,6 +50,7 @@ Wide-spread dev environments that work well (e.g. MAMP)
 - [MAMP 3](http://www.mamp.info/en/) (*MAMP 2 works as well*)
 - [Laravel Valet](https://laravel.com/docs/master/valet)
 - [Laravel Homestead](https://laravel.com/docs/homestead) - Works well for Windows
+- [XAMPP](https://www.apachefriends.org)
 - A [Vagrant for Statamic](https://github.com/bradleyflood/vagrant-statamic) setup
 - [Scotch Box](https://github.com/scotch-io/scotch-box) - 'A Vagrant LAMP Stack That Just Works'
 - Jack's iMac
