@@ -17,7 +17,7 @@ These guys work well with Statamic right out of the box.
 - [Digital Pacific](http://www.digitalpacific.com.au/hosting/) - Sydney, Australia
 - [DreamHost](https://www.dreamhost.com/) - [server tweaks needed](https://github.com/statamic/hosts/wiki/Dreamhost-tweaks)
 - [fortrabbit](https://www.fortrabbit.com/) - US Virgina & EU Ireland, with [install guide for Statamic 3](https://help.fortrabbit.com/install-statamic-3)
-- [Google Cloud Platform](https://cloud.google.com/)
+- [Google Cloud Platform](https://cloud.google.com/) (Free Tier F1-Micro Virtual Instance [setup script](//github.com/t94xr/gcp-statamic3).)
 - [HostGator](http://www.hostgator.com/)
 - [Internethelden](https://internethelden.io/) - Germany
 - [Laravel Forge](https://forge.laravel.com/) + [Linode](http://linode.com)
