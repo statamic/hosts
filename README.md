@@ -13,9 +13,11 @@ These guys work well with Statamic right out of the box.
 - [ArcusTech](http://arcustech.com)
 - [AWS](https://aws.amazon.com/)
 - [Azure](https://azure.microsoft.com/)
+- [Cyon](https://www.cyon.ch/) - Switzerland
 - [Digital Ocean](https://www.digitalocean.com/) ([One-Click LAMP Stack](https://www.digitalocean.com/features/one-click-apps/))
 - [Digital Pacific](http://www.digitalpacific.com.au/hosting/) - Sydney, Australia
 - [DreamHost](https://www.dreamhost.com/) - [server tweaks needed](https://github.com/statamic/hosts/wiki/Dreamhost-tweaks)
+- [Exigo](https://www.exigo.ch/) - Switzerland
 - [fortrabbit](https://www.fortrabbit.com/) - US Virgina & EU Ireland, with [install guide for Statamic 3](https://help.fortrabbit.com/install-statamic-3)
 - [Google Cloud Platform](https://cloud.google.com/)
 - [HostGator](http://www.hostgator.com/)
