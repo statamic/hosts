@@ -27,12 +27,14 @@ These guys work well with Statamic right out of the box.
 - [Media Temple (dv)](http://mediatemple.net)
 - [Media Temple (grid)](http://mediatemple.net)
 - [Metanet](http://www.metanet.ch) - Switzerland
+- [MyHost](https://myhost.nz/) – New Zealand & Australia
 - [OVH](https://www.ovh.com/fr/index.xml) is a nice web host with 3 main data centers in northeastern France and one near Montreal (Quebec, Canada). It offers PHP 5.5 and 5.4.
 - [Panthur](http://www.panthur.com.au/) - Sydney, Australia
 - [Ploi](https://ploi.io) + [Linode](http://linode.com)
 - [Ploi](https://ploi.io) + [Digital Ocean](https://www.digitalocean.com)
 - [ServInt](https://www.servint.net/)
 - [Site5](http://www.site5.com/)
+- [SiteHost](https://sitehost.nz/) – New Zealand & Australia
 - [WebFaction](https://www.webfaction.com/)
 
 ## Hosts that don't play nice
