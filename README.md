@@ -15,6 +15,7 @@ These guys work well with Statamic right out of the box.
 - [Azure](https://azure.microsoft.com/)
 - [Cyon](https://www.cyon.ch/) - Switzerland
 - [Digital Ocean](https://www.digitalocean.com/) ([One-Click LAMP Stack](https://www.digitalocean.com/features/one-click-apps/))
+- [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/)
 - [Digital Pacific](http://www.digitalpacific.com.au/hosting/) - Sydney, Australia
 - [DreamHost](https://www.dreamhost.com/) - [server tweaks needed](https://github.com/statamic/hosts/wiki/Dreamhost-tweaks)
 - [Exigo](https://www.exigo.ch/) - Switzerland
@@ -32,6 +33,7 @@ These guys work well with Statamic right out of the box.
 - [Panthur](http://www.panthur.com.au/) - Sydney, Australia
 - [Ploi](https://ploi.io) + [Linode](http://linode.com)
 - [Ploi](https://ploi.io) + [Digital Ocean](https://www.digitalocean.com)
+- [Ploi](https://ploi.io) + [Hetzner Cloud](https://www.hetzner.com/cloud)
 - [ServInt](https://www.servint.net/)
 - [Site5](http://www.site5.com/)
 - [SiteHost](https://sitehost.nz/) – New Zealand & Australia
