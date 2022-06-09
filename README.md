@@ -37,6 +37,7 @@ These guys work well with Statamic right out of the box.
 - [ServInt](https://www.servint.net/)
 - [Site5](http://www.site5.com/)
 - [SiteHost](https://sitehost.nz/) – New Zealand & Australia
+- [Vultr](https://www.vultr.com/) - Worldwide
 - [WebFaction](https://www.webfaction.com/)
 
 ## Hosts that don't play nice
