@@ -23,6 +23,7 @@ These guys work well with Statamic right out of the box.
 - [Google Cloud Platform](https://cloud.google.com/)
 - [HostGator](http://www.hostgator.com/)
 - [Internethelden](https://internethelden.io/) - Germany
+- [Laravel Forge](https://forge.laravel.com/) + [Katapult](https://katapult.io/)
 - [Laravel Forge](https://forge.laravel.com/) + [Linode](http://linode.com)
 - [Laravel Forge](https://forge.laravel.com/) + [Digital Ocean](https://www.digitalocean.com)
 - [Media Temple (dv)](http://mediatemple.net)
@@ -31,6 +32,7 @@ These guys work well with Statamic right out of the box.
 - [MyHost](https://myhost.nz/) – New Zealand & Australia
 - [OVH](https://www.ovh.com/fr/index.xml) is a nice web host with 3 main data centers in northeastern France and one near Montreal (Quebec, Canada). It offers PHP 5.5 and 5.4.
 - [Panthur](http://www.panthur.com.au/) - Sydney, Australia
+- [Ploi](https://ploi.io) + [Katapult](https://katapult.io/)
 - [Ploi](https://ploi.io) + [Linode](http://linode.com)
 - [Ploi](https://ploi.io) + [Digital Ocean](https://www.digitalocean.com)
 - [Ploi](https://ploi.io) + [Hetzner Cloud](https://www.hetzner.com/cloud)
