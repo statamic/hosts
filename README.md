@@ -21,6 +21,7 @@ These guys work well with Statamic right out of the box.
 - [Exigo](https://www.exigo.ch/) - Switzerland
 - [fortrabbit](https://www.fortrabbit.com/) - US Virgina & EU Ireland, with [install guide for Statamic 3](https://help.fortrabbit.com/install-statamic-3)
 - [Google Cloud Platform](https://cloud.google.com/)
+- [Hetzner Cloud](https://www.hetzner.com/cloud)
 - [HostGator](http://www.hostgator.com/)
 - [Internethelden](https://internethelden.io/) - Germany
 - [Laravel Forge](https://forge.laravel.com/) + [Linode](http://linode.com)
