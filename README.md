@@ -55,6 +55,7 @@ You should probably avoid these. It doesn't mean it's not possible, but will lik
 Wide-spread dev environments that work well (e.g. MAMP)
 
 - [MAMP 3](http://www.mamp.info/en/) (*MAMP 2 works as well*)
+- [Laravel Herd](https://herd.laravel.com/)
 - [Laravel Valet](https://laravel.com/docs/master/valet)
 - [Laravel Homestead](https://laravel.com/docs/homestead) - Works well for Windows
 - A [Vagrant for Statamic](https://github.com/bradleyflood/vagrant-statamic) setup
