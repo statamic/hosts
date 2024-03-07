@@ -10,6 +10,7 @@ User contributed notes on various web host that play well or don't play with wit
 These guys work well with Statamic right out of the box.
 
 - [A Small Orange](http://asmallorange.com)
+- [ALL-INKL](https://all-inkl.com/webhosting/premium/)
 - [ArcusTech](http://arcustech.com)
 - [AWS](https://aws.amazon.com/)
 - [Azure](https://azure.microsoft.com/)
