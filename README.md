@@ -1,6 +1,6 @@
 # Hosts
 
-User contributed notes on various web host that play well or don't play with with Statamic. Send your pull requests, no affiliate links!
+User contributed notes on various web hosts that do or don't play well with Statamic. Send your pull requests, no affiliate links!
 
 ## Hosts that play nice
 
