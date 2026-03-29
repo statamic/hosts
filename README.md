@@ -20,6 +20,7 @@ These guys work well with Statamic right out of the box.
 - [Google Cloud Platform](https://cloud.google.com/)
 - [Hetzner Cloud](https://www.hetzner.com/cloud)
 - [HostGator](http://www.hostgator.com/)
+- [Infomaniak](https://infomaniak.com/) - Switzerland
 - [Internethelden](https://internethelden.io/) - Germany
 - [Laravel Forge](https://forge.laravel.com/) + [Linode](http://linode.com)
 - [Laravel Forge](https://forge.laravel.com/) + [Digital Ocean](https://www.digitalocean.com)
